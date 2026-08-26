@@ -3,9 +3,24 @@
 
 # Gallery
 
-### Current Prototype
-Still getting used to the soldering.
+### Updates
+<ul>
+  <li>Battery voltage indicator, powered by the 3.7V LiPo 1000mAh battery</li>
+  <li>Slide power switch connected to LiPo battery via JST 1.25</li>
+  <li>Menu rough draft, working on preferred spacing for placements</li>
+</ul>
 
-![DAP-front.jpeg](attachments/DAP-front.jpeg)
+### Coming Soon
+<ul>
+  <li>Configure piezo buzzer for alerts, tones, selections</li>
+  <li>Pseudo RTC since no backup battery is installed</li>
+  <li>Improved menu
+  <li>MP3 music player</li>
+  <li>Bluetooth connectivity</li>
+</ul>
 
-![DAP-back.jpeg](attachments/DAP-back.jpeg)
+<div>
+    <img src="attachments/DAP-front.jpeg" style="height: 40vh; margin-right: 2%;">
+    <img src="attachments/DAP-back.jpeg" style="height: 40vh;">
+</div>
+
